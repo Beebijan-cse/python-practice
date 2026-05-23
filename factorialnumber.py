@@ -1,0 +1,7 @@
+ # print the fcatorial of the given number
+num=int(input("enter the number:-"))
+fact=1
+for i in range(1,num+1):
+    fact=fact*i
+print("factorial of num is",fact)    # 1x1=1,1x2=2,2x3=6
+    
