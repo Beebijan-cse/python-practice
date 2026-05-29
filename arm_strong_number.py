@@ -9,9 +9,9 @@ while num>0:
     sum=sum + digit**3
     num=num//10
 if sum==temp:
-    print("it is a armsstrong number ")   
+    print("it is a armsstrong number")  
 else:
-    print("it is not a armsstrong number")     
+    print("it is not a armsstrong number")    
     
 
 
