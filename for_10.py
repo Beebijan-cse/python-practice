@@ -2,8 +2,9 @@
 
 for i in range(1,11):
     print(i)
-    
-    
+
+
+# using while loop    
 i=1
 while i<11:  
     print(i)
