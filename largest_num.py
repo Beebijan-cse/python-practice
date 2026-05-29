@@ -10,4 +10,3 @@ for i in lis:
     if i>largest: 
         largest=i
 print("largest number in a list",largest)        
-# or use print(list[::-1])
